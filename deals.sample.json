@@ -1,0 +1,34 @@
+{
+  "Wiggle": {
+    "groupsets": [
+      {
+        "store": "Wiggle",
+        "name": "Shimano Ultegra R8000 Groupset",
+        "price": 899.99,
+        "currency": "USD",
+        "discount": 25,
+        "image": "https://images.weserv.nl/?url=upload.wikimedia.org/wikipedia/commons/thumb/7/72/Shimano_Ultegra_R8000_Group.jpg/320px-Shimano_Ultegra_R8000_Group.jpg",
+        "image_full": "https://upload.wikimedia.org/wikipedia/commons/7/72/Shimano_Ultegra_R8000_Group.jpg",
+        "url": "https://www.wiggle.com/",
+        "category": "groupsets",
+        "last_updated": "2025-08-23T12:00:00Z"
+      }
+    ]
+  },
+  "Chain Reaction Cycles": {
+    "trainers": [
+      {
+        "store": "Chain Reaction Cycles",
+        "name": "Wahoo KICKR Smart Trainer",
+        "price": 1199.99,
+        "currency": "USD",
+        "discount": 10,
+        "image": "https://images.weserv.nl/?url=upload.wikimedia.org/wikipedia/commons/thumb/7/73/Wahoo_KICKR.jpg/320px-Wahoo_KICKR.jpg",
+        "image_full": "https://upload.wikimedia.org/wikipedia/commons/7/73/Wahoo_KICKR.jpg",
+        "url": "https://www.chainreactioncycles.com/",
+        "category": "trainers",
+        "last_updated": "2025-08-23T12:00:00Z"
+      }
+    ]
+  }
+}
